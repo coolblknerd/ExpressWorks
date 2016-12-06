@@ -6,7 +6,7 @@
 // The port number will be provided to you by expressworks as the first argument of
 // the application, ie. process.argv[2].
 
-----------------------
+// ----------------------
 
 const express = require('express');
 var app = express(),
